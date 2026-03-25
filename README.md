@@ -70,4 +70,3 @@ I am continuously advancing my skills in **data engineering, automation, and app
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Ayush-Shrivas\&icon=0\&color=0)
