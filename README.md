@@ -8,7 +8,7 @@ I have hands-on experience with modern tools and frameworks including **Python, 
 
 I consistently build **real-world, industry-oriented projects** such as ETL pipelines, analytics dashboards, and ML-driven applications. My approach emphasizes **clean architecture, optimized performance, and best practices in software and data engineering**.
 
-I am continuously advancing my skills in **data engineering, automation, and applied machine learning**, with the objective of developing **scalable, high-impact, and production-grade systems**.
+I am continuously advancing my skills in **data engineering, automation, and applied machine learning**, with the objective of developing **scalable, high-impact, and production-grade systems**..
 
 ---
 
